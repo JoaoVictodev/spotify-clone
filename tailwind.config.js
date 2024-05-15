@@ -18,7 +18,7 @@ module.exports = {
       }),
       backgroundSize: {
         "175%": "175%",
-        "195%": "195%",
+        "195%": "195%", 
       },
       backgroundPosition: {
         banner: "46% 4%",
